@@ -48,6 +48,12 @@ pintypes (office): Add new when required, will be used for calculating cables.
 - Ethernet: eth_{RJ45,M12}
 - USB2: usb2_{A(standard),B,mini_A,mini_B,micro_A,micro_B}
 - USB3: usb3_{A,B,micro_B,C}
+- Serial: RS232
+
+Attributes:
+
+- rack_{up,down} : 
+- hostname :
 
 
 ## Collaborating
